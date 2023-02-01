@@ -1,0 +1,168 @@
+
+body
+    {
+       background-color: pink
+    }
+
+table,tr,td,th
+      {
+        border-collapse: collapse;
+        border: 1px solid paleturquoise;
+      }
+
+table
+
+    {
+        border-collapse: collapse;
+        border: 1px solid purple;
+    }
+
+
+
+th
+    {
+      background-color: purple;
+    }
+
+tr:nth-child(odd)
+    {
+        background-color: yellowgreen;
+    }
+
+
+
+    tr:hover
+     {
+        background-color: brown;
+     }
+
+     div.home
+  {
+    float:left
+    height 500px;
+    width:100%;
+    background-color: rgb(86, 107, 86);
+    text-align: center;
+  }
+
+div.logo
+    {
+        float:left;
+        height:100px;
+        width: 10%;
+        background-color:blueviolet;
+    }
+
+    div.menu
+      {
+      float:left;
+        height: 100px;
+        width:90%;
+        background-color: rgb(156, 224, 185);
+        font-size: larger; 
+        text-align: center;
+      }
+
+div.Acknowlegement
+    {
+      float: left;
+      height: 50%;
+      width: 100%;
+      background-color: orchid;
+     text-align: center;
+    }
+
+    div.menu1
+    {
+      float:left
+      height 500px;
+      width:100%;
+      background-color: rgb(152, 223, 152);
+    }
+
+div.biodata
+{
+  float:left
+  height 200%;
+  width:100%;
+  background-color: rgb(182, 45, 136);
+  text-align: center;
+}
+
+div.Education
+{
+  float:left
+  height 500%;
+  width:100%;
+  background-color: rgb(120, 138, 243);
+  text-align: center;
+}
+
+div.Experience
+{
+  float:left
+  height 500%;
+  width:100%;
+  background-color: rgb(241, 191, 220);
+  text-align: center;
+}
+
+ div.FATHER
+      {
+        float: left;
+        width: 30%;
+        height: 100%;
+        background-color: skyblue;
+      }
+ 
+ div.Mother
+   {
+      float: left;
+      height: 100%;
+      width: 40%;
+      background-color: pink;
+   }
+
+ div.Sister
+   {
+     float: left;
+     width: 30%;
+     height: 100%;
+     background-color: coral;
+   }
+    
+ div.copyright
+    {
+      float: left;
+      width: 100%;
+      height: 50px;
+      background-color: darkgrey;  
+    }
+ 
+ul
+    {
+      list-style-type: disc;
+    }
+
+ol
+   {
+      list-style-type: lower-roman;
+   } 
+
+  div.home
+  {
+    float:left
+    height 500px;
+    width:100%;
+    background-color: rgb(86, 107, 86);
+    text-align: center;
+  }
+
+div.paragraph
+{
+  float:left
+  height 500px;
+  width:100%;
+  background-color: rgb(196, 201, 196);
+  text-align: center;
+}
